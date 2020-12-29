@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "firstscoop": "nodenv firstscoop.js",
+    "multipack": "nodenv multipack.js"
   },
   "keywords": [],
   "author": "",
